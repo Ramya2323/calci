@@ -6,5 +6,5 @@ class calculator:
     return a-b
     def squareRoot(self, a):
         return math.sqrt(a)
-    def multiply(a, b);
+    def multiply(a, b):
       return a*b
